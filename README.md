@@ -136,7 +136,7 @@ Got an idea for an AI system? Want to talk LLMs, RAG, or robots? ;)
 **Let's build something that thinks.**
 
 [![LinkedIn](https://img.shields.io/badge/Hit_me_up_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moha22/)
-[![Email](https://img.shields.io/badge/+20_1107387020-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201107387020)
+[![Email](https://img.shields.io/badge/+20_1107387020-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](email:moh4medihab@gmail.com)
 
 ---
 
