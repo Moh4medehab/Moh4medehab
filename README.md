@@ -104,7 +104,7 @@ ML-powered recommendation engine that suggests books based on user interest patt
 
 ---
 
-## `> cat certificates.txt`
+## `certificates.txt`
 
 ```
 ✅  ROS (Robot Operating System)        — Robotics Corner
@@ -117,7 +117,7 @@ ML-powered recommendation engine that suggests books based on user interest patt
 
 ---
 
-## `> history | grep awards`
+## `history | grep awards`
 
 ```
 🏆  Certificate of Recognition — ICMISI 2026
@@ -132,7 +132,7 @@ ML-powered recommendation engine that suggests books based on user interest patt
 
 <div align="center">
 
-Got an idea for an AI system? Want to talk LLMs, RAG, or robots?  
+Got an idea for an AI system? Want to talk LLMs, RAG, or robots? ;)  
 **Let's build something that thinks.**
 
 [![LinkedIn](https://img.shields.io/badge/Hit_me_up_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moha22/)
