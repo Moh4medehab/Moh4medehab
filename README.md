@@ -88,7 +88,7 @@ ML-powered recommendation engine that suggests books based on user interest patt
 
 ---
 
-## `>My Skills :3 `
+## `My Skills :3 `
 
 <div align="center">
 
@@ -140,7 +140,7 @@ Got an idea for an AI system? Want to talk LLMs, RAG, or robots? ;)
 
 ---
 
-*"Building AI that doesn't just compute — it communicates."*
+*"i'm here to change the whole game."*
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Moh4medehab.Moh4medehab)
 
