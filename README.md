@@ -19,7 +19,7 @@
 ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝ 
 ```
 
-### `AI Engineer` · `Robotics` · `LLMs` · `Builder`
+### `AI Engineer` · `Robotics` · `NLP` · `DEV`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moha22/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Moh4medehab)
@@ -35,7 +35,7 @@
 class MohammedEhab:
     role        = "AI Engineer"
     university  = "Pharos University — CS & AI (2023–2027)"
-    location    = "Alexandria, Egypt 🌊"
+    location    = "Alexandria, Egypt <3"
     languages   = ["Arabic (Native)", "English (C1)"]
 
     focus = [
@@ -45,7 +45,7 @@ class MohammedEhab:
         "Human-Robot Interaction",
     ]
 
-    currently_building = "AI systems that actually talk back 🤖🎙️"
+    currently_building = "AI systems that actually talk back hehe ;) "
 ```
 
 ---
@@ -81,7 +81,7 @@ Voice/chat assistant capable of answering contextual questions about artifacts a
 
 ---
 
-### 📚 Book Recommendation System
+### Book Recommendation System
 > *Machine Learning · Python*
 
 ML-powered recommendation engine that suggests books based on user interest patterns — built in Year 1 as an intro to intelligent systems.
