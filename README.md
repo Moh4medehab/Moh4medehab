@@ -29,7 +29,7 @@
 
 ---
 
-## `> who am i ? `
+## `who am i ? `
 
 ```python
 class MohammedEhab:
@@ -50,7 +50,7 @@ class MohammedEhab:
 
 ---
 
-## `> ls projects/`
+## `My Projects: `
 
 ### 🏛️ HORUS — AI-Powered Robotic Museum Guide
 > *Founder & Lead Engineer — Jun 2024*
@@ -88,7 +88,7 @@ ML-powered recommendation engine that suggests books based on user interest patt
 
 ---
 
-## `> cat skills.txt`
+## `>My Skills :3 `
 
 <div align="center">
 
