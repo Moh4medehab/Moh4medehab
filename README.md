@@ -29,7 +29,7 @@
 
 ---
 
-## `> whoami`
+## `> who am i ? `
 
 ```python
 class MohammedEhab:
