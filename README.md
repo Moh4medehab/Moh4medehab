@@ -128,7 +128,7 @@ ML-powered recommendation engine that suggests books based on user interest patt
 
 ---
 
-## `> ping me`
+## `ping me ;) `
 
 <div align="center">
 
